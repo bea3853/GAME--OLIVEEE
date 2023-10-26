@@ -1,0 +1,9 @@
+Objetivo: Coletar as bananas
+Regras: Pular apenas nas plataformas pode cair
+Equilíbrio: 
+História: Macaquinho que precisa coletar alimentos
+Feedback: Quantidade de bananas coletadas, tres vezes que pode colidir com os inimigos
+Adaptatividade: mais inimigos
+Sorte x Habilidade: As bananas aparecerem nos melhores lugares, Habilidade: os pulos
+PC: macaquinho
+NPC: plataformas, bananas e inimigos
