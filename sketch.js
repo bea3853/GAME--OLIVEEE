@@ -64,7 +64,7 @@ function draw(){
         spawnBananas();
         if(bananaGroup.isTouching(monkey)){
             score += 1;
-          //  banana.visible = false;
+            __banana.visible = false;
         }
         if(monkey.y > height){
             gameState = 2;
